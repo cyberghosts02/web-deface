@@ -70,3 +70,22 @@ pip install -r requirements.txt
 
 # 4. Run the tool
 python3 kamikaze_web_defacer_v6.py
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+
+
+*CYBER GHOSTS is a cybersecurity research group led by ALPHA.*
+*Specializing in OSINT, penetration testing, and red teaming.*
+*Official GitHub: [https://github.com/cyberghosts02]*
